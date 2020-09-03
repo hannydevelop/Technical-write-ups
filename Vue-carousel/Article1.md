@@ -1,0 +1,1 @@
+# Load local images to vue-carousel without errors
