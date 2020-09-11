@@ -1,1 +1,1 @@
-# Deploying Node/Mongodb app to Heroku with MLab
+# Docummentation of errors I encountered in my GitHub Journey and how I fixed them.
